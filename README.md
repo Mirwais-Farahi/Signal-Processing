@@ -59,8 +59,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Mirwais Farahi**
 
-- GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
-- Twitter: [@twitterhandle](https://twitter.com/farahi92)
+- GitHub: [@githubhandle](https://github.com/mirwais-farahi)
+- Linkedin: [@linkedinhandle](https://www.linkedin.com/in/mfarahi)
 
 
 ## 🤝 Contributing
